@@ -2,6 +2,7 @@
 
 A simple Todo List application built using HTML, CSS, and JavaScript.
 
+![To-Do List](https://github.com/anubhab-m02/To-Do-List/blob/master/ss.jpg?raw=true)
 ## Table of Contents
 
 - [Overview](#overview)
